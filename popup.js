@@ -1,5 +1,3 @@
-// VoiceBridge v1.6 – Fixed function order, working Clear All
-
 'use strict';
 
 // ── Language list ──────────────────────────────────────────────────────────────
